@@ -1,0 +1,85 @@
+
+##########################################################################################
+This file contains all the research links and blogs for the topics which will help in better understanding of the problem.For video tutorials use Coursera, Udemy or Pluralsight
+##########################################################################################
+
+—> Recommendation theory and basics
+
+https://www.analyticsvidhya.com/blog/2015/10/recommendation-engines/
+https://www.coursera.org/learn/machine-learning/home/week/9
+
+—> Nearest neighbour model
+
+http://rnowling.github.io/data/science/2016/10/29/knn-recsys.html
+http://cs229.stanford.edu/proj2008/Wen-RecommendationSystemBasedOnCollaborativeFiltering.pdf
+
+—> Latent factor model Code & PPT(Already uploaded on confluence Page)
+
+https://github.com/katbailey/factorizer/blob/master/factorizer.py
+http://katbailey.github.io/post/matrix-factorization-with-tensorflow/
+https://github.com/shashankg7/Matrix-Factorization-GPU ##(See this)
+
+—> Netflix challenge for recommendations
+
+http://blog.echen.me/2011/10/24/winning-the-netflix-prize-a-summary/
+
+
+	######## In depth knowledge of neural networks required further #######
+Prerequisite: There are a lot of tutorials and videos on neural networks available online (Udemy , Coursera and blogs).
+So neural network working should be clear before proceeding further. 
+
+—> Help on neural networks
+
+http://neuralnetworksanddeeplearning.com/
+https://deeplearning4j.org
+https://github.com/shashankg7
+
+
+—> Importance of activation functions in NN
+
+https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network
+http://playground.tensorflow.org/
+
+—> Collaborative CNNs for Spotify and Youtube
+
+http://benanne.github.io/2014/08/05/spotify-cnns.html
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
+
+
+—> Research paper & blog for RBM intro
+
+https://deeplearning4j.org/restrictedboltzmannmachine
+http://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf
+
+
+—> Research for RBM implementation
+
+http://image.diku.dk/igel/paper/AItRBM-proof.pdf
+
+
+—> Help for autoencoders intro
+
+https://deeplearning4j.org/deepautoencoder
+https://pgaleone.eu/neural-networks/2016/11/18/introduction-to-autoencoders/
+https://walmart.udemy.com/deeplearning/learn/v4/t/lecture/6866168?start=0
+
+—> Help for autoencoders implementation
+
+https://blog.keras.io/building-autoencoders-in-keras.html
+
+—> Reference code for diff models for recommendation
+
+https://github.com/saurabhmathur96/movie-recommendations
+
+
+—> Further research with RNNs (For curiosity)
+
+https://arxiv.org/pdf/1606.07792.pdf
+https://arxiv.org/pdf/1511.06939.pdf
+https://cs224d.stanford.edu/reports/LiuSingh.pdf (Handling Sparsity in the UI matrix-Good)
+
+
+
+
+
+

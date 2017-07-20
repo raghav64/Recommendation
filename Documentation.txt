@@ -1,0 +1,19 @@
+
+Please read the confluence page first to get the idea of the project.
+
+First two models (Nearest neighbour and Latent factor) were implemented for book recommendations in python.The folder Nearest_Neighbor&Latent_Factor folder includes code Book_recommendation.py and the dataset can be found at:
+
+ http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+
+The deep learning models(RBM and Autoencoders) were implemented on movielens data(ml-100k) for movie recommendation. Dataset can be found at: 
+
+https://grouplens.org/datasets/movielens/
+
+
+The implemented RBM model is binary model whether the user will like the movie or not.
+The implemented Autoencoder model has discrete output that is prediction for ratings in 1-5 range. (The loss can be minimised further by increasing the layers and tweaking the model) 
+
+The folder RBMs contains data and code for RBM model and the autoencoders folder contains the data and code for Autoencoder model.
+
+Conclusion:
+The Netflix challenge winning solution used Latent factor implementation which proves to be best. In the code I have written you’ll get the reconstructed matrix and the task is just to sort and predict. The auto encoder model has a loss of 0.7 so +- 0.7 in rating prediction is expected.
